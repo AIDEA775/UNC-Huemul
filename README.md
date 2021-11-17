@@ -1,3 +1,11 @@
+# Update!
+
+Un tiempo después de publicar esto, alguien responsable de la UNC arregló las vulnerabilidades que acá describo.
+
+Pero lo dejo publicado por motivos historicos. Con un poco de suerte, encontrás algo que yo no ví en su momento.
+
+---
+
 # Hacking notes...
 
 Estas notas son principalmente una ayuda de memoria para mí mismo, aunque 
